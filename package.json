@@ -9,9 +9,10 @@
   },
   "source": "src/index.js",
   "main": "dist/main.js",
-    "scripts": {
+  "scripts": {
     "watch": "parcel watch",
-    "build": "parcel build"
+    "build": "parcel build",
+    "test": "echo \"Running tests...\""
   },
   "devDependencies": {
     "eslint": "^8.11.0",
